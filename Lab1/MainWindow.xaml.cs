@@ -1,4 +1,21 @@
-﻿using System;
+﻿
+/// Chapter No. 4		Exercise No. 1
+/// File Name: MainWindow.xaml.cs
+/// @author: Chester Brock 
+/// Date:  Sep 19, 2021
+///
+/// Problem Statement:  Create a gui for the pig latin homeowrk
+/// 
+/// 
+/// 
+/// Overall Plan:
+/// 1) Place two text boxes
+/// 2) place two labels besides them 
+/// 3) rename the items from the tool box
+/// 4) link up homework 2 with the gui. 
+///
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
